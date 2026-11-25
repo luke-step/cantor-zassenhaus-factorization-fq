@@ -3,8 +3,8 @@
 C implementation of the Cantor–Zassenhaus probabilistic algorithm for factoring
 univariate polynomials over a finite field F_q, q = p^d.
 
-Based on the report *Un algorithme probabiliste de factorisation des polynômes à
-coefficients dans un corps fini*.
+Report (in French): *Un algorithme probabiliste de factorisation des polynômes à
+coefficients dans un corps fini* (`Factorisation_de_Polynômes_sur_Fq.pdf`).
 
 Authors: Grégoire Rusu and Lucas Stepanova — Master's coursework project, 2025.
 
